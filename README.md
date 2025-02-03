@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariebellekhaddage&label=Profile%20views&color=0e75b6&style=flat" alt="mariebellekhaddage" /> </p>
 
-[![Resume/CV](https://img.shields.io/badge/📄_Resume-CV-blue)](https://github.com/MarieBelle88/MarieBelle-Resume/raw/main/MarieBelle_CV.pdf)
+[![Resume/CV](https://img.shields.io/badge/📄_Resume-CV-blue)](MarieBelleKhaddageCV.pdf)
 
 
 <p align="center">
